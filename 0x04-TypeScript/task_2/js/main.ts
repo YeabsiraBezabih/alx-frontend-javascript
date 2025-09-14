@@ -65,7 +65,7 @@ function executeWork(employee: Director | Teacher): string {
   }
 }
 
-// String literal type for Subjects
+// String literal type for Subjec
 type Subjects = "Math" | "History";
 
 // teachClass function
